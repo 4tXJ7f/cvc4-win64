@@ -7,7 +7,7 @@ using MinGW-w64.
 
 1. Clone this repository
 2. Build the docker file in the `ubuntu16.04-mingw-dev` subdirectory: `docker
-   build -t ubuntu16.04-mingw-dev ubuntu16.04-mingw-dev/`. This builds a docker
+   build -t ubuntu16.04-mingw-dev ubuntu16.04-mingw-dev`. This builds a docker
    image with all the necessary tools and dependencies for building the Windows
    build.
 3. Build the docker file in the `ubuntu16.04-win64` subdirectory: `docker build
