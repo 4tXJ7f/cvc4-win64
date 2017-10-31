@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEP_PATH=/home/deps/CVC4-master
+DEP_PATH=/home/deps/CVC4-deps-static
 wget https://github.com/CVC4/CVC4/archive/master.zip
 unzip master.zip
 cd CVC4-master
